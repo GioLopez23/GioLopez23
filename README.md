@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Giovanni Lopez
+# 👋 Hello, my name is Giovanni Lopez
 - 🧐 I am interested in Embedded Systems and FPGA Design.
 - 😁 I would love to work in the Defense, Medical or Automotive Industries.
 - 👀 I enjoy playing video games 🎮, watching Formula 1 🏎️ and air shows ✈️
